@@ -1,4 +1,4 @@
-package Assignment;
+
 
 /* 
     1.	Write a program called IncomeTaxCalculator for salaried Employee. 
