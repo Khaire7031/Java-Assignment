@@ -1,6 +1,6 @@
 
 /*
-    Assignment 2. Write a program called PensionContributionCalculator 
+Assignment 2. Write a program called PensionContributionCalculator 
         for salaried Employee. Design employee class with attributes 
         like Emp_id, Emp_name, Age, Salary, Employee_contribution, 
         Employer_contribution etc. and calculate total pension contribution (Use Constructors).
@@ -10,10 +10,12 @@
         @ above 55 to 60	    13	                13
         @ above 60 to 65	    7.5	                9
         @ above 65	            5       	        7.5
- */
+        */
+        
+        
+        
+package Assignment;
 
-
- 
 import java.util.Scanner;
 
 class Employee {
