@@ -12,4 +12,4 @@ This repository contains my Java assignments for the Programming and Problem Sol
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/JavaAssignments.git
+   https://github.com/Khaire7031/Java-Assignment
