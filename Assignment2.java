@@ -1,4 +1,4 @@
-package Assignment;
+
 
 /*
     Assignment 2. Write a program called PensionContributionCalculator 
