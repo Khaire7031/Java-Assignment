@@ -1,4 +1,3 @@
-package Assignment;
 
 /*
     Assignment 2. Write a program called PensionContributionCalculator 
@@ -104,3 +103,41 @@ public class Assignment2 {
         scanner.close();
     }
 }
+
+
+
+/*
+
+    @ Output 1
+                Assignment No : 2
+
+    Enter Employee ID: 25
+    Enter Employee Name: Prasad
+    Enter Age: 26
+    Enter Salary: 1350000
+
+    Employee ID           : 25
+    Employee Name         : Prasad
+    Age                   : 26
+    Salary                : 1350000.0
+    Employee Contribution : 270000.0
+    Employer Contribution : 229500.00000000003
+
+    
+    @ Output 2
+                Assignment No : 2
+
+    Enter Employee ID: 32
+    Enter Employee Name: Sahil Pawar
+    Enter Age: 63
+    Enter Salary: 1700000
+
+    Employee ID           : 32
+    Employee Name         : Sahil
+    Age                   : 63
+    Salary                : 1700000.0
+    Employee Contribution : 127500.0
+    Employer Contribution : 153000.0
+
+
+ */

@@ -1,4 +1,3 @@
-package Assignment;
 
 /* 
     1.	Write a program called IncomeTaxCalculator for salaried Employee. 
@@ -68,7 +67,7 @@ class Employee {
         // Calculate Tax
         calculateTax();
 
-        System.out.println(" \n1) Employee ID   : " + Emp_id);
+        System.out.println(" \n 1) Employee ID   : " + Emp_id);
         System.out.println(" 2) Employee Name : " + Name);
         System.out.println(" 3) Age           : " + Age);
         System.out.println(" 4) Annual Income : " + Annual_income);
@@ -82,7 +81,7 @@ class Employee {
 public class Assignment1 {
     public static void main(String[] args) {
 
-        System.out.println("    Assignment No : 1 \n\n");
+        System.out.println("\n     Assignment No : 1 \n");
 
         Scanner scan = new Scanner(System.in);
 
@@ -104,5 +103,47 @@ public class Assignment1 {
 
         // Output
         employee.display();
+
+        scan.close();
     }
 }
+
+
+
+
+/*
+    @ Output 1
+
+        Assignment No : 1 
+
+    Enter your Name : Pranav
+    Enter your Id : 45
+    Enter your Age : 20
+    Enter your Annual income : 750000
+    
+    1) Employee ID   : 45
+    2) Employee Name : Pranav
+    3) Age           : 20
+    4) Annual Income : 750000
+    5) Income Tax    : 25000.0
+    6) Total Amount  : 775000.0
+
+    
+
+    @ Output 2 
+
+        Assignment No : 1
+
+    Enter your Name : Swapnil Dhumal
+    Enter your Id : 17
+    Enter your Age : 21
+    Enter your Annual income : 1405000
+
+    1) Employee ID   : 17
+    2) Employee Name : Swapnil Dhumal
+    3) Age           : 21
+    4) Annual Income : 1405000
+    5) Income Tax    : 131000.0
+    6) Total Amount  : 1536000.0
+
+ */
