@@ -14,7 +14,7 @@ Assignment 2. Write a program called PensionContributionCalculator
         
         
         
-package Assignment;
+
 
 import java.util.Scanner;
 
